@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Bibidi
 I wanna be a developer.
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Android.
 - 📫 How to reach me: tnwlsgk1002@naver.com 
 
