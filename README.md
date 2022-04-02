@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Bibbidi
-I wanna be a developer.
+I wanna be a Android developer.
 
 - 🌱 I’m currently learning Android.
 - 📫 How to reach me: tnwlsgk1002@gmail.com
