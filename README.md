@@ -9,4 +9,4 @@ I wanna be a Android developer.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sjevie.tistory.com/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnwlsgk1002&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnwlsgk1002&show_icons=true&theme=dracula&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnwlsgk1002&show_icons=true&theme=dracula&hide=jupyternotebook&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
