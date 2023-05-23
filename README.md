@@ -8,6 +8,6 @@ I wanna be a Android developer.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_sjevie/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sjevie.tistory.com/)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tnwlsgk1002&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats-green-zeta.vercel.app/api?username=tnwlsgk1002&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnwlsgk1002&layout=compact&theme=dracula&hide=jupyter%20notebook&langs_count=5)
+![Top Langs](https://github-readme-stats-green-zeta.vercel.app/api/top-langs/?username=tnwlsgk1002&layout=compact&theme=dracula&hide=jupyter%20notebook&langs_count=5)
